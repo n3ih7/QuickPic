@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa6a7230-e340-445f-9e11-c3b3a41faa93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/test.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/DB_Interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/request_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/test.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namespaces/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namespaces/dummy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namespaces/post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namespaces/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/DB_Interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/request_handling.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="107e18d4-1015-4f04-bee7-cd4dccfca12d" />
+  <component name="ProjectId" id="1j4zeWqbi1WYDSSMWKahxvGUmBw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="backend" type="PythonConfigurationType" factoryName="Python">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa6a7230-e340-445f-9e11-c3b3a41faa93" name="Default Changelist" comment="" />
+      <created>1603078248240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603078248240</updated>
+      <workItem from="1603078249477" duration="23000" />
+      <workItem from="1603336869342" duration="1028000" />
+      <workItem from="1603343418287" duration="250000" />
+      <workItem from="1603344544962" duration="9000" />
+      <workItem from="1604030067422" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
